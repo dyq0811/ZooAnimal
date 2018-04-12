@@ -1,0 +1,7 @@
+Lola,lemur,2005,zooPics/lemur.jpg
+Leanne,koala,2000,zooPics/koala3.jpg
+Sophie,giraffe,2010,zooPics/giraffe.jpg
+Kevin,koala,2007,zooPics/koala.jpg
+Ozzie,loris,2008,zooPics/loris.jpg
+Tapan,giraffe,1996,zooPics/giraffe2.jpg
+Leanne,koala,2011,zooPics/koala2.jpg
