@@ -8,4 +8,4 @@ It represents each animal as an instance of a class ZooAnimal and converts the t
 The program is a good practice working with the List ADT, String, File, Scanner, loops, and simple classes. It also shows how java can display images, moving closer to more complicated applications.
 
 
-Add four parts to this project: modifying ZooAnimal to be Comparable, writing testing code for your implementation of SortedList, implementing SortedList, and revising your ZooDisplayer to make use of SortedList implementation.
+Add four parts to this project: modifying ZooAnimal to be Comparable, writing testing code for the implementation of SortedList, implementing SortedList, and revising the ZooDisplayer to make use of the SortedList implementation.
